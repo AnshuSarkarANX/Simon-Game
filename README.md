@@ -1,5 +1,5 @@
 # Simon-Game
-<h3 align="center">This is a simple simon game website.</h3>
+<h3 align="left">This is a simple simon game website.</h3>
 
 
 <p align="left">
