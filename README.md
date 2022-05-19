@@ -13,5 +13,5 @@
 <a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu7anx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu-sarkar/" height="30" width="40" /></a>
 </p>
-<a herf="https://github.com/AnshuSarkarANX/Simon-Game.git"><h3 align="left" style="display:inline-block; font-size:1.5rem;">Clone this project</h3></a>
+<a herf="https://github.com/AnshuSarkarANX/Simon-Game.git"><h3 align="left" style="font-size:1.5rem;">Clone this project</h3></a>
 
