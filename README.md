@@ -1,5 +1,5 @@
 # Simon-Game
-<h3 align="left">This is a simple simon game website.</h3>
+#### This is a simple simon game[website](anshusarkaranx.github.io/simon-game/).
 
 
 <p align="left">
