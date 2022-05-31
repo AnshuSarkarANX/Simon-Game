@@ -1,7 +1,7 @@
 # Simon-Game
-#### This is a simple simon game [website](anshusarkaranx.github.io/simon-game/).
 ![Drum Kit](SimonGame.png)
-
+  
+#### This is a simple simon game [website](anshusarkaranx.github.io/simon-game/).
 <p align="left">
 </p>
 
