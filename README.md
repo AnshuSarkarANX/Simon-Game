@@ -10,8 +10,8 @@
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" alt="jQuery" width="40" height="40"/></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu7anx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu-sarkar/" height="30" width="40" /></a>
+<a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Twitter_logo.gif" alt="gif" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/Linked_in.gif" alt="gif" height="50" width="50" /></a>
 </p>
 
 ### [Clone this project](https://github.com/AnshuSarkarANX/Simon-Game.git)
