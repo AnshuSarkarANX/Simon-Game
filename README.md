@@ -1,7 +1,7 @@
 # Simon-Game
 ![Drum Kit](SimonGame.png)
   
-#### This is a simple simon game [website](anshusarkaranx.github.io/simon-game/). To play this game first, you need to press any button on the keyborad then follow the steps accordingly.
+### This is a simple simon game [website](anshusarkaranx.github.io/simon-game/). To play this game first, you need to press any button on the keyborad then follow the steps accordingly.
 <p align="left">
 </p>
 
